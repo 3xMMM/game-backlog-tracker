@@ -4,7 +4,7 @@ import './Navbar.css';
 function Navbar() {
     return (
         <nav className="Navbar">
-            <span className="Navbar__Left">Game Backlog Tracker</span>
+            <span className="Navbar__Left">Game Backlog Tracker </span>
         </nav>
     );
 }
