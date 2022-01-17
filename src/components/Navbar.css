@@ -1,0 +1,7 @@
+.Navbar {
+    @apply flex px-8 py-4 bg-green-200;
+}
+
+.Navbar__Left {
+    @apply flex-auto text-xl font-bold;
+}
